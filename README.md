@@ -1,4 +1,4 @@
-# python_pcap_notes
+# Python pcap notes
 My notes for preparing for python PCAP
 
 # Exam

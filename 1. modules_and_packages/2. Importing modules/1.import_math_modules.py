@@ -28,6 +28,9 @@ import math
 # We can also import specific attributes or functions from a module, such as pi:
 from math import pi
 
+# To import multiple modules
+from math import pi, e, tau, inf
+
 # This allows us to use an attribute directly without referencing the full module.
 # Example:
 print(pi)  # instead of using print(math.pi)

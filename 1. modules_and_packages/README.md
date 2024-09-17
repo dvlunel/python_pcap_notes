@@ -21,6 +21,7 @@ https://pythoninstitute.org/pcap-exam-syllabus
 
 * functions: random(), seed(), choice(), sample()
 
+# 4. Platform modules
 # PCAP-31-03 1.4 – Discover host platform properties using the platform module
 
 * functions: platform(), machine(), processor(), system(), version(), python_implementation(), python_version_tuple()

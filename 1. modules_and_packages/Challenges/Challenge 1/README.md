@@ -17,6 +17,7 @@ There should be a function called collect_system_info() that returns the expecte
 
 The script will print the system information in a formatted manner. Example output:
 
+```python
 System Information:
 -------------------
 Platform: Windows-10-10.0.19041-SP0
@@ -26,3 +27,4 @@ OS: Windows
 OS Version: 10.0.19041
 Python Implementation: CPython
 Python Version: 3.8.5
+```

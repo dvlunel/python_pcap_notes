@@ -32,9 +32,9 @@ https://pythoninstitute.org/pcap-exam-syllabus
 In the challenges this subjects will be included.
 
 * idea and rationale;
-* the __pycache__ directory
-* the __name__ variable
-* public and private variables
-* the __init__.py file
-* searching for/through modules/packages
-* nested packages vs. directory trees
+* the __pycache__ directory (Challenge 1)
+* the __name__ variable (Challenge 2)
+* public and private variables (Challenge 3)
+* the __init__.py file (Challenge 4)
+* searching for/through modules/packages (Challenge 5)
+* nested packages vs. directory trees (Challenge 6)

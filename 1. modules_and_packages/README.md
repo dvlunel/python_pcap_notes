@@ -25,8 +25,11 @@ https://pythoninstitute.org/pcap-exam-syllabus
 # PCAP-31-03 1.4 – Discover host platform properties using the platform module
 
 * functions: platform(), machine(), processor(), system(), version(), python_implementation(), python_version_tuple()
+
 # 6. Challenges
 # PCAP-31-03 1.5 – Create and use user-defined modules and packages
+
+In the challenges this subjects will be included.
 
 * idea and rationale;
 * the __pycache__ directory

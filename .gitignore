@@ -1,4 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code and other IDE settings
+.vscode/
+.idea/
+
+# Python packaging artifacts
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+*.cover
+htmlcov/
+.cache/
+
+# Jupyter Notebook checkpoints (if added later)
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
 # Code challenge files
-
-
 **/answers/
